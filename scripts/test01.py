@@ -8,11 +8,11 @@
 
 class Test01:
     def test001(self):
-        print("test001被执行")
+        print("test001 finished")
 
     def test002(self):
-        print("test002被执行")
+        print("test002 finished")
 
     def test003(self):
-        print("test003被执行")
+        print("test003 finished")
         assert 5 == 2
