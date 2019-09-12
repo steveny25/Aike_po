@@ -15,4 +15,4 @@ class Test01:
 
     def test003(self):
         print("test003被执行")
-        assert 5 != 2
+        assert 5 == 2
